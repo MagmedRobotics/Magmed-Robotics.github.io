@@ -173,7 +173,7 @@ theme = 'LoveIt'
       # 网站描述
       description = "重庆大学网络安全实验室官网"
       # 网站关键词
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["Magmed-Robotics Laboratory", "CQU", "AI"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -223,7 +223,7 @@ theme = 'LoveIt'
       logo = ""
       # title name
       # 标题名称
-      name = "Cyber Security Laboratory @ CQU"
+      name = "Magmed-Robotics Laboratory @ BIT"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -461,7 +461,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Cyber Security Laboratory, Chongqing University."
+  name = "Magmed-Robotics Laboratory, Beijing Institute of Technology."
 
 
 # Options to make output .md files

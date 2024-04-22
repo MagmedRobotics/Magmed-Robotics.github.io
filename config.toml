@@ -1,4 +1,4 @@
-baseURL = 'https://csl-cqu.github.io/'
+baseURL = 'https://magmedrobotics.github.io/Magmed-Robotics.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'

@@ -77,13 +77,13 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Cyber Security Laboratory @ CQU"
+      description = "The website of Magmed-Robotics Laboratory @ BIT"
       # site keywords
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["Magmed-Robotics Laboratory", "BIT", "ROBOTICS"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "CSL@CQU"
+        title = "MRL@BIT"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
